@@ -6,7 +6,7 @@ Below is a collection of scripts and projects that I have worked on that are rel
 A generalized description of the purpose for the project or script is included in the code.
 
 ### Projects
-[buy-signal-mix.py](https://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language)<br>
+[buy-signal-mix.py](https://github.com/JE-Work/Stocks/blob/main/buy-signal-mix.py)<br>
 [on-balance-volume.py](https://github.com/JE-Work/Stocks/blob/main/on-balance-volume.py)<br>
 [price-data.py](https://github.com/JE-Work/Stocks/blob/main/price-data.py)<br>
 
