@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
-# A script using the yfinance package to fetch the specified price history 
-# data for a given ticker.
+#
+# This script uses the yfinance package to fetch the specified price history data
+# for a given stock ticker. Here it is fetching weekly price history for Microsoft,
+# of a one year period, and returning it in a CSV file.
+#
 
 import yfinance as yf
 import pandas as pd
