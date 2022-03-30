@@ -1,9 +1,11 @@
 #!/bin/usr/env python3
 
+#
 # This script fetches stock price data for the specified time period.
 # It calculates the On-balance Volume Indicator
 # https://school.stockcharts.com/doku.php?id=technical_indicators:on_balance_volume_obv
 # It plots the stock price in one panel with OBV in another panel below.
+#
 
 import datetime as dt
 import mplfinance as mpf
