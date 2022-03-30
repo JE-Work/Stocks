@@ -9,6 +9,7 @@ A generalized description of the purpose for the project or script is included i
 [buy-signal-mix.py](https://github.com/JE-Work/Stocks/blob/main/buy-signal-mix.py)<br>
 [on-balance-volume.py](https://github.com/JE-Work/Stocks/blob/main/on-balance-volume.py)<br>
 [price-data.py](https://github.com/JE-Work/Stocks/blob/main/price-data.py)<br>
+[tickers.py](https://github.com/JE-Work/Stocks/blob/main/tickers.py)<br>
 
 ---
 
