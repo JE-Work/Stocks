@@ -31,7 +31,7 @@ def screener():
 
 def main():
 	
-	screener()
+    screener()
 
 if __name__ == '__main__':
 	main()
