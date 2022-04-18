@@ -6,9 +6,9 @@ Below is a collection of scripts and projects that I have worked on that are rel
 A generalized description of the purpose for the project or script is included in the code.
 
 ### Projects
-[buy-signal-mix.py](https://github.com/JE-Work/Stocks/blob/main/buy-signal-mix.py)<br>
-[on-balance-volume.py](https://github.com/JE-Work/Stocks/blob/main/on-balance-volume.py)<br>
-[price-data.py](https://github.com/JE-Work/Stocks/blob/main/price-data.py)<br>
+[buy-signal-mix.py](https://github.com/JE-Work/Stocks/blob/main/buy_signal_mix.py)<br>
+[on-balance-volume.py](https://github.com/JE-Work/Stocks/blob/main/on_balance_volume.py)<br>
+[price-data.py](https://github.com/JE-Work/Stocks/blob/main/price_data.py)<br>
 [tickers.py](https://github.com/JE-Work/Stocks/blob/main/tickers.py)<br>
 
 ---
